@@ -1,0 +1,2 @@
+# DataStructuresWithC
+Here store all the accomplished files I had in my Data Structures with C course taken at Renmin University of China. There are three projects: 1) design and implementation of a complex calculator; 2) implementation of Hoffman code; 3) design and implementation of a flight search tool, all based on multiple basic data structures including sequence list, linked list, stack, queue, string, array, generalized list, trees, graphs. Sorting algorithms were also largely used.
